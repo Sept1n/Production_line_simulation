@@ -1,0 +1,35 @@
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.główny_widok.resources
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WinFormAnimation.xml
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CPU.resources
+C:\Users\Kuba\Desktop\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RAM.resources
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.dll
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WinFormAnimation.dll
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CircularProgressBar.xml
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WinFormAnimation.xml
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CPU.resources
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.główny_widok.resources
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RAM.resources
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Pulpit 2\Studia\Projekt_6_POSK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
